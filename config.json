@@ -2,25 +2,21 @@
 	"clusters": [
 		{
 			"vk": {
-				"token": "Токен от станицы или группы ВКонтакте",
-				"group_id": "club1",
-				"keywords": [],
+				"token": "3cd49d352da08a2c026fcb9d96581be4971a42e5a6ae55e296ebddbfd376ec3b719c59dd8afd1a653b8db",
+				"group_id": "gears1",
+				"keywords": ["собака", "яблоко"],
 				"filter": true,
-				"longpoll": false,
+				"longpoll": true,
 				"interval": 30
 			},
 			"discord": {
 				"webhook_urls": [
-					"https://discordapp.com/api/webhooks/"
+					"https://discordapp.com/api/webhooks/741374731021713539/p0NeUyPlffFrbJP9xEgrLoQihGPoYy4iUJoWd8PZhxVt-wcXe6menD2cbSimWxWnCexO"
 				],
-				"username": "",
-				"avatar_url": "",
-				"content": "",
-				"color": "#aabbcc",
-				"author": true,
-				"copyright": true
+				"bot_name": "Spidey",
+				"color": "#ebdw3c"
 			}
 		}
 	],
-	"version_dont_modify_me": 3
+	"version_dont_modify_me": 1
 }
